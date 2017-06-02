@@ -1,7 +1,6 @@
 {
   "name": "vpui",
   "main": "index.js",
-  "version": "0.1.20",
   "homepage": "https://github.com/stonefe/vpui",
   "authors": [
     "zhanghao639 <jsyczhanghao@sina.com>"
@@ -11,5 +10,15 @@
     "vue": "feather-components/vue#production",
     "type-of": "ForbesLindesay/type-of",
     "ajax": "ForbesLindesay/ajax"
-  }
+  },
+  "_release": "5f5740a9b4",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "5f5740a9b4fac1bbb202f0947584cd1287f1b3d0"
+  },
+  "_source": "https://github.com/stonefe/vpui.git",
+  "_target": "*",
+  "_originalSource": "stonefe/vpui",
+  "_direct": true
 }
